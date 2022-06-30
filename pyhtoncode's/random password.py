@@ -15,3 +15,5 @@ length_for_pass=8
 password="".join(random.sample(use_for,length_for_pass))
 
 print("your password:",password)
+
+print("all done")
